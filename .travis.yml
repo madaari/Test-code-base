@@ -4,4 +4,4 @@ python:
   - "2.7"
   - "3.2"
 
-script: hellopy
+script:python hellopy.py
